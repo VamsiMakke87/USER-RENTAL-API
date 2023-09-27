@@ -137,11 +137,3 @@ duration, that product is not shown in the list.
           "endTime": "2023-06-20T23:02:00"
         }
     ```
-
-
-
-
-[Link to the project](https://vamsi-makke-emi-calculator.netlify.app/)
-<sub>
- This project in the link is     built without backend just to show the UI and working of the application. 
-</sub>
