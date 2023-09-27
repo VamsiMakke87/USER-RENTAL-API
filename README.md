@@ -2,7 +2,7 @@
 
 - This project is an Backend application similar to Zoomcar.
 - This applications helps users to rent products for certain period of time.
-- This contains mainly two APIs
+- This application contains mainly two APIs
   - Takes a ```GET``` request to search products based on product category, startTime and endTime.
   - API will then return a list of all the available products with product name, image, cost for the duration etc. 
   - If a product is already booked and booking dates overlaps with search
