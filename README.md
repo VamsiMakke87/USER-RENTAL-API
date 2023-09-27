@@ -1,6 +1,6 @@
 # USER-RENTAL-API
 
-- This project is an Backend application similar to Zoomcar.
+- This project is an Backend application similar to Zoomcar
 - This applications helps users to rent products for certain period of time.
 - This application contains mainly two APIs
   - Takes a ```GET``` request to search products based on product category, startTime and endTime.
