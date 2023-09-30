@@ -82,9 +82,7 @@ duration, that product is not shown in the list.
 
 ## Steps to run the project
 - Clone this repository.
-- create a database with name 'user_rental'
-- mvn clean install the project
-- run the spring boot project
+- run command ```docker-compose up```
 
 ## APIS
 
