@@ -10,6 +10,12 @@ duration, that product is not shown in the list.
 - Second API is used to order from the list of products.
 - Technologies used Spring Boot and MySQL.
 
+## SOFTWARE REQUIREMENTS
+
+- **Java:** 17
+- **MySQL:** 8
+- **Docker:** 19.03.0+
+
 ##### DEMO DATA
 
 ```
@@ -81,8 +87,14 @@ duration, that product is not shown in the list.
 ```
 
 ## Steps to run the project
-- Clone this repository.
-- run command ```docker-compose up```
+- Without docker
+	- Clone this repository.
+	- create a database with name 'user_rental'
+	- mvn clean install the project
+	- run the spring boot project
+ - With docker
+   	- Copy this [docker-compose.yml](https://github.com/VamsiMakke87/USER-RENTAL-API/blob/main/User-Rental/docker-compose.yml) file.
+   	- In the file directory run command ``` docker-compose up ``` 
 
 ## APIS
 
